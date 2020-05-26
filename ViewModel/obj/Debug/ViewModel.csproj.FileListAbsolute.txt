@@ -1,0 +1,5 @@
+C:\Users\Ravi\Documents\Assignment2020\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Ravi\Documents\Assignment2020\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Ravi\Documents\Assignment2020\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Ravi\Documents\Assignment2020\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Ravi\Documents\Assignment2020\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
